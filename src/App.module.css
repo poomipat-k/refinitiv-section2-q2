@@ -1,0 +1,17 @@
+.container {
+  margin: 16px 0 0 16px;
+}
+
+.table {
+  margin: 16px 0 0 16px;
+}
+
+table {
+  /* min-width: 400px; */
+  margin-top: 8px;
+  border-collapse: collapse;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
